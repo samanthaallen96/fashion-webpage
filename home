@@ -1,50 +1,48 @@
 <html lang="en">
 <head>
-<title><center>theLOOK</center></title>
-<link rel="stylesheet" href="fashion.css">
-<link href="theLOOK.css" rel="stylesheet" type="text/css">
+<title>Page title </title>
+<link rel="stylesheet" href="homepage1.css">
 </head>
 <body>
+<body style="background-color:extralightgrey;">
 <header>
-<hl>The LOOK </hl>
-</header>
+<h1><center><h1 style="font-family:georgia;"><h1 style="font-size:300%;">The Look</center></h1>
+</header><center>
 <div class="navbar">
-<body style="background-color:extralightgrey;"
-<nav>
 <!-- main navigation -->
 <nav>
 <ul>
-<li><a href="index.html">Home</a></li> &nbsp; 
-<li><a href="fashion.html">Fashion</a></li> &nbsp; 
-<li><a href="beauty.html">Beauty</a></li> &nbsp;
-<li><a href="latestupdates.html">Fashion</a></li> &nbsp; 
-<li><a href="beauty.html">Beauty</a></li> &nbsp;
+<li><a href="index.html">Home</a><li> &nbsp; 
+<li><a href="filename.html">Fashion</a></li> &nbsp; 
+<li><a href="filename.html">Beauty</a></li> &nbsp; 
+<li><a href="filename.html">Updates</a></li> &nbsp; 
+<li><a href="filename.html">Contact</a></li>
 </ul>
 </nav>
 </div>
 <main>
-<h2>Daily News</h2>
-<p>Be update to date with the latest fashion news, beauty inspiration, shopping ideas and more every day. </p>
-<body>
-</body>
-</html>
+<h2>Section heading</h2>
+<p>Be update to date with the latest fashion news, beauty inspiration, shopping ideas and more every day.</p>
 <ul>
   <li>NYFW Street Style Staples</li>
-  <li>TOP TEN TIP'S: age defeating skincare</li>
+  <li>TOP TEN TIP'S: age defeating skincare<</li>
   <li>What's HOT from AW18</li>
 </ul>
+<img src="sunglassestrend.jpg" alt="Sunglasses Trend">
 <div>
-The LOOK<br>
+<br>
+The Look<br>
 Borough Road<br>
-South West London<br>
-SW19 3PR<br>
-0208 310 9386<br><br>
+London<br>
+SW9 3LR<br>
+02083124090<br><br>
 </div>
 </main>
 <footer>
 <small><i>Copyright &copy; 2018 Department of Computing &amp Information Systems - University of Greenwich<br>
-<a href="mailto:youremail@gre.ac.uk">sa6982a@greenwich.ac.uk</a>
+<a href="mailto:youremail@gre.ac.uk">youremail@gre.ac.uk</a>
 </i></small>
 </footer>
+</center>
 </body>
 </html>
