@@ -1,0 +1,50 @@
+<html lang="en">
+<head>
+<title><center>theLOOK</center></title>
+<link rel="stylesheet" href="fashion.css">
+<link href="theLOOK.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<header>
+<hl>The LOOK </hl>
+</header>
+<div class="navbar">
+<body style="background-color:extralightgrey;"
+<nav>
+<!-- main navigation -->
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li> &nbsp; 
+<li><a href="fashion.html">Fashion</a></li> &nbsp; 
+<li><a href="beauty.html">Beauty</a></li> &nbsp;
+<li><a href="latestupdates.html">Fashion</a></li> &nbsp; 
+<li><a href="beauty.html">Beauty</a></li> &nbsp;
+</ul>
+</nav>
+</div>
+<main>
+<h2>Daily News</h2>
+<p>Be update to date with the latest fashion news, beauty inspiration, shopping ideas and more every day. </p>
+<body>
+</body>
+</html>
+<ul>
+  <li>NYFW Street Style Staples</li>
+  <li>TOP TEN TIP'S: age defeating skincare</li>
+  <li>What's HOT from AW18</li>
+</ul>
+<div>
+The LOOK<br>
+Borough Road<br>
+South West London<br>
+SW19 3PR<br>
+0208 310 9386<br><br>
+</div>
+</main>
+<footer>
+<small><i>Copyright &copy; 2018 Department of Computing &amp Information Systems - University of Greenwich<br>
+<a href="mailto:youremail@gre.ac.uk">sa6982a@greenwich.ac.uk</a>
+</i></small>
+</footer>
+</body>
+</html>
