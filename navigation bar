@@ -1,0 +1,17 @@
+.navbar ul li {display:inline; }
+
+.navbar a {
+	padding:8px;
+	color:white; background-color: #000000;
+	font-family:arial;
+	border-style:outset;
+    text-decoration:none;
+	width:8em;
+}
+
+.navbar a:hover,
+.navbar a:active
+{
+	 border-style:inset;
+	 color:thistle;
+}
